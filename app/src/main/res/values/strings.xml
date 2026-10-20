@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">B-CUT ULTRA</string>
+    <string name="app_subtitle">By Bandhon • PRO</string>
+    <string name="import_media">মিডিয়া আনো</string>
+    <string name="import_media_en">Import Media</string>
+    <string name="export_video">Export Video</string>
+    <string name="export_video_bn">ভিডিও এক্সপোর্ট</string>
+    <string name="tab_media">মিডিয়া</string>
+    <string name="tab_text">টেক্সট</string>
+    <string name="tab_filter">ফিল্টার</string>
+    <string name="tab_controls">কন্ট্রোল</string>
+    <string name="tab_projects">প্রজেক্ট</string>
+    <string name="file_manager">ফাইল ম্যানেজার</string>
+    <string name="drop_or_select_video">+ ভিডিও ফাইল ড্রপ বা সিলেক্ট করুন</string>
+    <string name="text_and_watermark">টেক্সট ও ওয়াটারমার্ক</string>
+    <string name="enter_text_hint">টেক্সট লিখুন...</string>
+    <string name="apply_text">ভিডিওতে টেক্সট বসাও</string>
+    <string name="clear_text">টেক্সট মুছে ফেলো</string>
+    <string name="settings_and_controls">সেটিংস ও কন্ট্রোল</string>
+    <string name="speed">স্পিড</string>
+    <string name="play_pause">Play / Pause</string>
+    <string name="timeline">টাইমলাইন</string>
+    <string name="filter_normal">স্বাভাবিক (Normal)</string>
+    <string name="filter_bw">সাদাকালো (B&amp;W)</string>
+    <string name="filter_sepia">ভিন্টেজ (Sepia)</string>
+    <string name="filter_contrast">হাই কন্ট্রাস্ট (High Contrast)</string>
+    <string name="filter_neon">সাইবারপাঙ্ক নিয়ন (Cyberpunk Neon)</string>
+    <string name="filter_warm">ওয়ার্ম গোল্ডেন (Warm Golden)</string>
+    <string name="filter_cool">কুল সিনেম্যাটিক (Cool Noir)</string>
+</resources>
